@@ -1,0 +1,6 @@
+apiVersion: demo.streamingmind.com/v1alpha1
+kind: Foo
+metadata:
+  name: foo-example
+  namespace: test
+spec: {}
